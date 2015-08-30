@@ -31,4 +31,7 @@ The User Interface of the game follows the following steps:
 3. Once a player has moved their piece, they can make a suggestion/accusation or see their cards.
 4. Steps 2-4 are repeated for every player until all players have lost or a winner has been determined.
 
-**Image below shows a screenshot of the game in action **
+###Image below shows a screenshot of the game in action where player 1 starts their turn.
+![](http://gdurl.com/4tUP)
+###Image below shows a screenshot after player has completed their move and can now make a decision on to suggest/accuse/list hand or end their turn.
+![](http://gdurl.com/rrsD)
